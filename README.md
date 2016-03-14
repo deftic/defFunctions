@@ -1,2 +1,1 @@
-# defFunctions
-defTic's custom functions
+A line I wrote on my computer
